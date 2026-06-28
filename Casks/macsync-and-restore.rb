@@ -1,6 +1,6 @@
 cask "macsync-and-restore" do
-  version "1.0.0"
-  sha256 "74b71091ab2d2dd5c072d9720e43ce39f04b46904a8d1b86095aa3ed0a2e3bb2"
+  version "1.0.1"
+  sha256 "1edb4b699d5eb99a531133d468cf2d3c8d7c2c603f62103f411621b2a95ce928"
 
   # Matches your exact GitHub asset delivery name structure
   url "https://github.com/muhammadsaif7717/macsync-and-restore/releases/download/v#{version}/MacSync.Restore-#{version}-arm64.dmg"
