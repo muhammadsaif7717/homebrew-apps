@@ -1,6 +1,6 @@
 cask "gdrive-connector" do
   version "1.0.0"
-  sha256 "bd5f2dc840ed85a39f2ab74092c1f3584df8aa73b40e78423bdb3ed0f99fcd2e"
+  sha256 "a107c43ce341de65828a7096bd69c60f9790272e94bea86286e6009bbf20eb84"
 
   url "https://github.com/muhammadsaif7717/GDriveConnector/releases/download/v#{version}/G.Drive.Connector-#{version}-arm64.dmg"
 
