@@ -1,5 +1,5 @@
 cask "gdrive-connector" do
-  version "1.0.1"
+  version "1.0.0"
   sha256 "bd5f2dc840ed85a39f2ab74092c1f3584df8aa73b40e78423bdb3ed0f99fcd2e"
 
   # Matches your exact GitHub asset delivery name structure
